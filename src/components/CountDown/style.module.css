@@ -1,0 +1,5 @@
+.timer{
+  text-align: center;
+  font-size: clamp(3rem, calc(25vw + 1rem), 16rem);
+  font-weight: bold;
+}

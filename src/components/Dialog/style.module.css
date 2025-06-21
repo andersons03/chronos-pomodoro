@@ -1,0 +1,23 @@
+.dialogContainer {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+
+  p {
+    text-align: center;
+  }
+}
+
+.dialogContainer__buttons {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 1.8rem;
+
+  button {
+    width: 4rem;
+    height: 4rem;
+    margin: 0;
+    min-width: unset;
+  }
+}
