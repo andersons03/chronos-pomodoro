@@ -1,4 +1,4 @@
-![Chornos Pomodoro](thumbnail.png)
+![Chornos Pomodoro](github_thumbnail.png)
 
 # Chronos Pomodoro 🍅⏱️
 
